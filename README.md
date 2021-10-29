@@ -6,7 +6,7 @@ Hi bro, I'm Meta 👋
 <br></br>
 ![Meta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenyuanLin&show_icons=true&count_private=true&theme=algolia)
 
-- 🌱 I’m an enthusiast in Computer Vision, Model Compression and Acceleration.
+- 🌱 I’m interested in Computer Vision, Model Compression and Acceleration.
 - 📫 How to reach me: wxid_o9yiuc8rwuvp22 (WeChat)
 - 🍻 Junior at [ECNU](https://www.ecnu.edu.cn/), in Computer Science
 - 🔭 I’m currently working in the lab of ECNU MMCV Lab
