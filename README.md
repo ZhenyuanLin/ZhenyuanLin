@@ -8,7 +8,7 @@ Hi bro, I'm Meta 👋
 
 - 🌱 I’m interested in Computer Vision, Data-free Distillation, Domain Adaptation.
 - 📫 How to reach me: wxid_o9yiuc8rwuvp22 (WeChat)
-- 🍻 Junior at [ECNU](https://www.ecnu.edu.cn/), in Computer Science
+- 🍻 major in Computer Science
 <!-- - 🔭 I’m currently working in ECNU DMCV Lab -->
 - 🏀 Basketball Lover
 
