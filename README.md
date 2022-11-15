@@ -6,7 +6,7 @@ Hi bro, I'm @. 👋
 <br></br>
 ![Meta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenyuanLin&show_icons=true&count_private=true&theme=algolia)
 
-- 🌱 I’m interested in Computer Vision.
+<!-- - 🌱 I’m interested in Computer Vision. -->
 <!-- - 📫 How to reach me: wxid_o9yiuc8rwuvp22 (WeChat) -->
 - 🍻 Major in Computer Science
 <!-- - 🔭 I’m currently working in ECNU DMCV Lab -->
