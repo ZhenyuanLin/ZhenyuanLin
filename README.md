@@ -2,7 +2,7 @@
 
 
 
-Hi bro, I'm @. 👋
+Hi bro, I'm Chun-Yuen Lam. 👋
 <br></br>
 ![Meta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenyuanLin&show_icons=true&count_private=true&theme=algolia)
 
